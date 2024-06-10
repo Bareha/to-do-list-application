@@ -54,6 +54,6 @@ public class ControllerMain {
 		category = "study";
 	}
 	public void selectHome(ActionEvent e) {
-		category = "home"
+		category = "home";
 	}
 }
