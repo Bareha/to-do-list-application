@@ -18,7 +18,7 @@ public class Main extends Application {
 			   stage.setTitle("To-Do List Manager");
 			   stage.show();
 		} catch(Exception e) {
-			e.printStackTrace()
+			e.printStackTrace();
 		}
 	}
 	
