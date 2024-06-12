@@ -21,7 +21,7 @@ public class ControllerMain {
 	private List<Task> tasks = new ArrayList<>();
 	String category;
 	
-	int i = 0;
+	int i = 0
 	
 	public void createTask(){
 		String title = taskTitle.getText();
